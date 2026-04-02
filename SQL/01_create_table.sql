@@ -1,0 +1,26 @@
+-- CREATE DATABASE INVENTORY;
+-- USE INVENTORY;
+-- CREATE TABLE netflix_users (
+--     User_ID INT,
+--     Age INT,
+--     Age_group varchar(10),
+--     Gender varchar(10),
+--     Country VARCHAR(50),
+--     Account_age_months int,
+--     Subscription_Type VARCHAR(50),
+--     Monthly_fee float,
+--     Payment_method varchar(10),
+--     Primary_device varchar(10),
+--     Devices_used int,
+--     Favorite_Genre VARCHAR(50),
+--     Avg_watch_time_minutes int,
+--     Watch_sessions_per_week int,
+--     Binge_watch_sessions int,
+--     Completion_rate int,
+--     Rating_given float,
+--     content_interactions int,
+--     Recommendation_click_rate int,
+--     Days_since_last_login DATE,
+--      Churned VARCHAR(10)
+-- );
+  select * from netflix_users;
